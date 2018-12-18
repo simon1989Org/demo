@@ -16,7 +16,7 @@ public class DemoApplicationTests {
 
 	@Test
 	public void testDemo(){
-		Assert.assertEquals(true, true);
+	    Assert.assertEquals(true, true);
 	}
 
 }
